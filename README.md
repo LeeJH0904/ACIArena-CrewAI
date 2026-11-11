@@ -1,3 +1,8 @@
+## 0. 원본 ACIArena repository
+
+https://github.com/Greysahy/aciarena.git
+
+
 ## 1. 실행 환경
 
 | 항목 | 요구 사항 |
